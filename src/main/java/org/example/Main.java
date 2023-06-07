@@ -7,5 +7,7 @@ public class Main {
         Dog rex = new Dog("Рекс");
         System.out.println("Hello my Dog!");
         System.out.println("Where Rex lives?");
+
+        System.out.println("*".repeat(10));
     }
 }
