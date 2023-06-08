@@ -5,4 +5,9 @@ public class Dog extends Pet{
         super(name);
     }
 
+    public void sleep(){
+        System.out.println("Dog sleeping");
+
+    }
+
 }
