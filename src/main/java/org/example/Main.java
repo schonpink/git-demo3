@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Сat were added to the project");
 
         Cat cat = new Cat("Simon");
+        rex.sleep();
 
     }
 }
