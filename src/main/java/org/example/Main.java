@@ -11,6 +11,7 @@ public class Main {
         System.out.println("*".repeat(10));
 
         System.out.println("Сhildren were added to the project");
+        System.out.println("Сat were added to the project");
 
     }
 }
