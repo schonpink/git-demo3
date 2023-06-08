@@ -9,5 +9,8 @@ public class Main {
         System.out.println("Where Rex lives?");
 
         System.out.println("*".repeat(10));
+
+        System.out.println("Сhildren were added to the project");
+
     }
 }
