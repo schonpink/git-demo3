@@ -8,6 +8,9 @@ public class Main {
         System.out.println("Hello my Dog!");
         System.out.println("Where Rex lives?");
 
+        Child child = new Child("Chico");
+
+
         System.out.println("*".repeat(10));
 
         System.out.println("Сhildren were added to the project");
